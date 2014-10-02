@@ -1,0 +1,21 @@
+{
+  "name": "straw-ios-service-toast.js",
+  "main": "index.js",
+  "version": "0.0.0",
+  "authors": [
+    "Yoshiya Hinosawa <stibium121@gmail.com>"
+  ],
+  "description": "JS interface for straw-ios-service-toast",
+  "keywords": [
+    "straw",
+    "strawiosservice",
+    "toast"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "straw-ios": "~0.3.4"
+  }
+}
