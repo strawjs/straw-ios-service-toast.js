@@ -1,0 +1,24 @@
+{
+  "name": "straw-ios-service-toast.js",
+  "version": "0.0.0",
+  "description": "JS interface for straw-ios-service-toast",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/strawjs/straw-ios-service-toast.git"
+  },
+  "keywords": [
+    "straw",
+    "strawiosservice",
+    "toast"
+  ],
+  "author": "Yoshiya Hinosawa <stibium121@gmail.com> (https://twitter.com/kt3k)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strawjs/straw-ios-service-toast/issues"
+  },
+  "homepage": "https://github.com/strawjs/straw-ios-service-toast"
+}
