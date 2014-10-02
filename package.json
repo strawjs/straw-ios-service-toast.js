@@ -4,7 +4,7 @@
   "description": "JS interface for straw-ios-service-toast",
   "main": "index.js",
   "scripts": {
-    "test": "jshint index.js"
+    "test": "node_modules/.bin/jshint index.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/strawjs/straw-ios-service-toast/issues"
   },
-  "homepage": "https://github.com/strawjs/straw-ios-service-toast"
+  "homepage": "https://github.com/strawjs/straw-ios-service-toast",
+  "devDependencies": {
+    "jshint": "^2.5.6"
+  }
 }
