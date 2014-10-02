@@ -1,6 +1,6 @@
 // straw-ios-service-toast.js
 
-window.straw.service.toast = (function (straw, Promise) {
+window.straw.service.toast = (function (straw) {
     'use strict';
 
     var exports = {};
@@ -13,4 +13,4 @@ window.straw.service.toast = (function (straw, Promise) {
 
     return exports;
 
-}(window.straw, window.Promise));
+}(window.straw));
