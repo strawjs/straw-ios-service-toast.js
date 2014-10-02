@@ -1,4 +1,6 @@
-# straw-ios-service-toast v0.0.0
+# straw-ios-service-toast.js v0.0.0
+
+[![Build Status](https://travis-ci.org/strawjs/straw-ios-service-toast.js.svg?branch=master)](https://travis-ci.org/strawjs/straw-ios-service-toast.js)
 
 > Toast (like android's one) service for Straw iOS
 
